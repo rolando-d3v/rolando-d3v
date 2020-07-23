@@ -1,4 +1,3 @@
-
 <h2> Hi, Soy Rolando!! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" width="300">
 <p><em>Ingeniero Sistemas <a href="https://www.upc.edu.pe/" target="blank" >University UPC </a><img src="https://www.upc.edu.pe/static/img/logo_upc_red.png" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
