@@ -14,14 +14,15 @@
 const Rolando = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, React Native, Redux, Node, Sass, Styled-Components, Mongodb, Node],
+  tools: [React, React Native, Redux, Node, Sass, Styled-Components],
+  database: [Mongodb, Mysql],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         coorganizer: "AfroPython",
                         speaker: "Latinity",
                         mentor: "RailsGirls POA"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am doing the challenge focused on react and typescript"
 }
 ```
 
