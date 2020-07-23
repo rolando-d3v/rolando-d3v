@@ -1,6 +1,6 @@
 
 <h2> Hi, Soy Rolando!! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://previews.dropbox.com/p/thumb/AA2kknuuVZ0ssh-z8k2bT_qaSkJ8rf5QpsQIZOMmIYu8eKZQSYJNtJgXHC_kOvLSgDfrkyZldj8g1Qdzc4_VxOIKS5J99PrPkoNtA_A4eO7zBOQHGdwfM1Ops-O71Ex4he01_Mi5gpt7BgSdbBJbN_rsVwdVX-mlR-6NhZGAmGMzBDXhaU48o1Q6gcoOWwWKynbo4deTFq-NuTUxKEXOl-unkRjeL1nb_nTkafO7QS6Xwg/p.jpeg?size=256x256&size_mode=2" width="230">
+<img align='right' src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" width="230">
 <p><em>Ingeniero Sistemas <a href="https://www.upc.edu.pe/" target="blank" >University UPC </a><img src="https://www.upc.edu.pe/static/img/logo_upc_red.png" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
