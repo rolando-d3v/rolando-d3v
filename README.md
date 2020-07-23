@@ -15,7 +15,7 @@
 const Rolando = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, React Native, Redux, Node, Sass, Styled-Components, Mongodb, Docker, Node],
+  tools: [React, React Native, Redux, Node, Sass, Styled-Components, Mongodb, Node],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         coorganizer: "AfroPython",
