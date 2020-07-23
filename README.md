@@ -36,8 +36,6 @@ const Rolando = {
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=landon-R)](https://github.com/landon-R/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=landon-R&hide=javascript,html])](https://github.com/landon-r/github-readme-stats)
-
 ---
 
 ⭐️ From [@Thaiane
