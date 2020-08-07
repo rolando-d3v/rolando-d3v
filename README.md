@@ -22,7 +22,7 @@ const Rolando = {
                         speaker: "Latinity",
                         mentor: "RailsGirls POA"
                       },
- challenge: "I am doing the challenge focused on react and typescript"
+ challenge: "Aspirando a ser FullStack Developer"
 }
 ```
 
