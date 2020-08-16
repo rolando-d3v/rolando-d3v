@@ -34,8 +34,6 @@ const Rolando = {
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=landon-R)](https://github.com/landon-R/github-readme-stats)
-
 ---
 
 ⭐️ From [@Thaiane
