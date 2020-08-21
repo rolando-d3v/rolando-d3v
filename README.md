@@ -12,9 +12,9 @@
 
 ```javascript
 const Rolando = {
-  pronouns: "she" | "her",
+  pronouns: "he" | "he",
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, React Native, Redux, Node, Sass, Styled-Components],
+  tools: [React, React Native, Node, Sass, Styled-Components],
   database: [Mongodb, Mysql],
   architecture: ["microservices", "event-driven", "design system"],
   techCommunities: {
