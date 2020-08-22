@@ -32,4 +32,3 @@ const Rolando = {
 
 ---
 
-⭐️ From [@Peru]
