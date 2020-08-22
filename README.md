@@ -14,10 +14,11 @@ const Rolando = {
   tools: [React, React Native, Node, Sass, Styled-Components],
   database: [Mongodb, Mysql],
   architecture: ["microservices", "event-driven", "design system"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity"
-                    },
+  tech:     {
+                    web: "React",
+                    mobile: "React Native",
+                    desktop: "Electron"
+             },
  challenge: "Aspirando a ser FullStack Developer"
 }
 ```
