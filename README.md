@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/33987212/90946656-9506d600-e3f4-11ea-8a9c-1936af3097cd.jpg" width="50">
+<img src="https://user-images.githubusercontent.com/33987212/90946656-9506d600-e3f4-11ea-8a9c-1936af3097cd.jpg" width="500">
 
 
 <h2> Hi, Soy Rolando!! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
