@@ -4,10 +4,6 @@
 <p><em>Ingeniero Sistemas <a href="https://www.upc.edu.pe/" target="blank" >University UPC </a><img src="https://www.upc.edu.pe/static/img/logo_upc_red.png" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: landon3388](https://img.shields.io/twitter/follow/landon3388?style=social)](https://twitter.com/landon3388)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
-
-
 ```javascript
 const Rolando = {
   code: [Javascript, Typescript, HTML, CSS],
