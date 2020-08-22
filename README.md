@@ -1,5 +1,5 @@
 
-https://github.com/landon-R/landon-R/blob/master/1ER%20MODELO.jpg?raw=true
+https://github.com/landon-R/landon-R/issues/1#issue-683909176
 
 <h2> Hi, Soy Rolando!! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" width="300">
