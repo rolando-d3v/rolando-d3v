@@ -20,7 +20,7 @@ const Rolando = {
 }
 ```
 
-<img src="https://user-images.githubusercontent.com/33987212/90947198-a0103500-e3f9-11ea-9117-063d2508cb89.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+ <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 
 
