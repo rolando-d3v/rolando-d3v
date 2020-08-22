@@ -11,13 +11,14 @@
 ```javascript
 const Rolando = {
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, React Native, Node, Sass, Styled-Components],
+  tools: [Boostrap, Context, Express, Sass, Styled-Components],
   database: [Mongodb, Mysql],
   architecture: ["microservices", "event-driven", "design system"],
   tech:     {
                     web: "React",
                     mobile: "React Native",
-                    desktop: "Electron"
+                    desktop: "Electron",
+                    server: "Node JS",
              },
  challenge: "Aspirando a ser FullStack Developer"
 }
