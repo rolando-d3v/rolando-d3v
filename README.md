@@ -20,7 +20,7 @@ const Rolando = {
 }
 ```
 
- <em><b>Me encanta aprender nuevas tecnologias</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+ <em><b>Me encanta aprender nuevas tecnologias</b> del mundo de Javascript <b>CARPE DIEM</b> :)</em>
 
 
 
