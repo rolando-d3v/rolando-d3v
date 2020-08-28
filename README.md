@@ -9,7 +9,7 @@ const Rolando = {
   code: [Javascript, Typescript, HTML, CSS],
   tools: [Boostrap, Context, Express, Sass, Styled-Components],
   database: [Mongodb, Mysql, Firebase],
-  architecture: ["microservices", "event-driven", "design system"],
+  architecture: ["microservices", "driven", "design system"],
   tech:     {
                     web: "React",
                     mobile: "React Native",
