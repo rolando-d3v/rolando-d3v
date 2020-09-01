@@ -7,9 +7,9 @@
 ```javascript
 const Rolando = {
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [Boostrap, Context, Express, Sass, Styled-Components],
+  tools: [Boostrap, Context, Express, Next js, Styled-Components],
   database: [Mongodb, Mysql, Firebase],
-  architecture: ["microservices", "Next js", "design system"],
+  architecture: ["microservices", "apirest", "graphql"],
   tech:     {
                     web: "React",
                     mobile: "React Native",
