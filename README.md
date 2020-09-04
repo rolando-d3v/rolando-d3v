@@ -13,7 +13,7 @@ const Rolando = {
   tech:     {
                     web: "React",
                     mobile: "React Native",
-                    desktop: "Electron",
+                    desktop: "Electron JS",
                     server: "Node JS",
              },
  challenge: "Aspirando a ser FullStack Developer"
