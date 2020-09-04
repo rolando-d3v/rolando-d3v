@@ -20,7 +20,7 @@ const Rolando = {
 }
 ```
 
- <em><b>Me encanta aprender las nuevas tecnologias del mundo de Javascript   ==>  (CARPE DIEM)</b> :)</em>
+ <em><b>Me encanta aprender las nuevas tecnologias del mundo de Javascript   =>  (CARPE DIEM)</b> :)</em>
 
 
 
