@@ -16,11 +16,11 @@ const Rolando = {
                     desktop: "Electron JS",
                     server: "Node JS",
              },
- challenge: "Aspirando a ser FullStack Developer 2020..."
+ challenge: "Aspirando a ser FullStack Developer"
 }
 ```
 
- <em><b>Me encanta aprender las nuevas tecnologias del mundo de Javascript  =>  (CARPE DIEM) </b> &copy; 2020@@  </em>
+ <em><b>Me encanta aprender las nuevas tecnologias del mundo de Javascript.  =>  (CARPE DIEM) </b> &copy; 2020 </em>
 
 
 
