@@ -16,7 +16,7 @@ const Rolando = {
                     desktop: "Electron JS",
                     server: "Node JS",
              },
- challenge: "Aspirando a ser FullStack Developer 2020"
+ challenge: "Aspirando a ser FullStack Developer 2020..."
 }
 ```
 
