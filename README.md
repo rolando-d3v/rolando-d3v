@@ -7,14 +7,14 @@
 ```javascript
 const Rolando = {
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [Boostrap, React Context, Express, Next, Styled-Components],
+  tools: [React Context,TailwindCSS, Styled-Components],
   database: [Mongodb, Mysql, Firebase],
   architecture: ["microservices", "rest", "graphql"],
   tech:     {
-                    web: "React",
+                    web: ["React", "Nextjs"]
                     mobile: "React Native",
                     desktop: "Electron JS",
-                    server: "Node JS",
+                    server: ["Node JS", "Express" ]
              },
  challenge: `Aspirando a ser FullStack Developer ${DEV}`
 }
