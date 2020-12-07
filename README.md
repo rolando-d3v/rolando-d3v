@@ -11,7 +11,7 @@ const Rolando = {
   database: [Mongodb, Mysql, Firebase],
   architecture: ["microservices", "rest", "graphql"],
   tech:     {
-                    web: ["React", "Nextjs"]
+                    web: ["React", "Nextjs"],
                     mobile: "React Native",
                     desktop: "Electron JS",
                     server: ["Node JS", "Express" ]
