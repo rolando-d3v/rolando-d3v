@@ -8,7 +8,7 @@
 const Rolando = {
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React Context,TailwindCSS, Styled-Components],
-  database: [Mongodb, Mysql, Firebase],
+  database: [Mongodb, Mysql],
   architecture: ["microservices", "rest", "graphql"],
   tech:     {
                     web: ["React", "Nextjs"],
