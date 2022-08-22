@@ -7,12 +7,12 @@
 ```javascript
 const Rolando = {
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React Context,TailwindCSS, Styled-Components],
+  tools: [Redux,TailwindCSS, Styled-Components],
   database: [Mongodb, Mysql],
   architecture: ["microservices", "rest", "graphql"],
   tech:     {
                     web: ["React", "Nextjs"],
-                    mobile: "React Native",
+                    mobile: "React Native", "Kotlin",
                     desktop: "Electron JS",
                     server: ["Node JS", "Express" ]
              },
