@@ -6,16 +6,20 @@
 
 ```javascript
 const Rolando = {
-  code: [Javascript, Typescript, HTML, CSS],
+  code: [Javascript, HTML, CSS, Python, SQL ],
   tools: [Redux,TailwindCSS, Styled-Components],
-  database: [Mongodb, Mysql],
   architecture: ["microservices", "rest", "graphql"],
-  tech:     {
-                    web: ["React", "Nextjs"],
-                    mobile: "React Native", "Kotlin",
-                    desktop: "Electron JS",
-                    server: ["Node JS", "Express" ]
-             },
+  Frontend:  {
+              javascript: ["React", "Nextjs"],
+              desktop: "Electron JS",
+              server: ["Node JS", "Express" ]
+         },
+  backend:  {
+              mobile: "React Native", "Kotlin",
+              desktop: "Electron JS",
+              server: ["Node JS", "Express" ]
+         },
+  database: [Mongodb, Mysql],
  challenge: `Aspirando a ser FullStack Developer ${DEV}`
 }
 ```
