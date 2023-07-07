@@ -11,11 +11,11 @@ const Rolando = {
   architecture: ["microservices", "Rest", "graphql"],
   Frontend:  {
               Javascript: ["React", "React Native", "Nextjs", "Electron JS"],
-              Python: ["Jango" ]
+              Python: ["Django" ]
            },
   Backend:  {
               Javascript: ["Node JS", "Express", "Fastify" ],
-              Python: ["Fastapi", "Jango" ]
+              Python: ["Fastapi", "Django" ]
             },
   database: ["Mongodb", "Mysql"],
  challenge: `FullStack Developer ${DEV}`
