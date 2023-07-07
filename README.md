@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/33987212/90967020-ff745080-e49e-11ea-96fb-891eb03b2dee.gif" width="860">
 <h2> Hi, Soy Rolando!! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"></h2>
 
-<p><em>Ingeniero de Sistemas: <a href="https://www.upc.edu.pe/" target="blank" >University UPC </a><img  style={padding : "0px"}    src="https://www.upc.edu.pe/static/img/logo_upc_red.png" width="30">
+<p><em>Ingeniero de Sistemas: <a href="https://www.upc.edu.pe/" target="blank" >University UPC </a   style={padding : "0px"}    ><img  src="https://www.upc.edu.pe/static/img/logo_upc_red.png" width="30">
 </em></p>
 
 ```javascript
