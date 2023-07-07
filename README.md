@@ -18,7 +18,7 @@ const Rolando = {
               Python: ["Fastapi", "Django" ]
             },
   database: ["Mongodb", "Mysql"],
- challenge: `FullStack Developer ${DEV}`
+  challenge: `FullStack Developer ${DEV}`
 }
 ```
 
