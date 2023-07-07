@@ -7,20 +7,18 @@
 ```javascript
 const Rolando = {
   code: [Javascript, HTML, CSS, Python, SQL ],
-  tools: [Redux,TailwindCSS, Styled-Components],
-  architecture: ["microservices", "rest", "graphql"],
+  tools: ["Redux", "TailwindCSS", "CSS"],
+  architecture: ["microservices", "Rest", "graphql"],
   Frontend:  {
-              javascript: ["React", "Nextjs"],
-              desktop: "Electron JS",
-              server: ["Node JS", "Express" ]
-         },
-  backend:  {
-              mobile: "React Native", "Kotlin",
-              desktop: "Electron JS",
-              server: ["Node JS", "Express" ]
-         },
-  database: [Mongodb, Mysql],
- challenge: `Aspirando a ser FullStack Developer ${DEV}`
+              Javascript: ["React", "React Native", "Nextjs", "Electron JS"],
+              Python: ["Jango" ]
+           },
+  Backend:  {
+              Javascript: ["Node JS", "Express", "Fastify" ],
+              Python: ["Fastapi", "Jango" ]
+            },
+  database: ["Mongodb", "Mysql"],
+ challenge: `FullStack Developer ${DEV}`
 }
 ```
 
