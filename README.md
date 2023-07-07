@@ -22,7 +22,7 @@ const Rolando = {
 }
 ```
 
- <em><b> Me encanta aprender las nuevas tecnologias del mundo de Javascript......>  (CARPE DIEM) </b> &copy; 2021..> </em>
+ <em><b> Me encanta aprender las nuevas tecnologias del mundo de Javascript......>  (CARPE DIEM) </b> &copy; 2023..> </em>
  ```javascript
 console.log("peru")
 
