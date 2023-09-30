@@ -61,6 +61,6 @@ console.log("peru")
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fapcod&show_icons=true&locale=en" alt="fapcod" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fapcod&" alt="fapcod" /></p>
+
 
 
