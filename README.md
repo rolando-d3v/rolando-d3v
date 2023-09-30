@@ -31,9 +31,7 @@ console.log("peru")
 <h1 align="center">Hola 👋, soy Frank Antonio P.A</h1>
 <h3 align="center">Soy un apasionado a la tecnologia. Soy desarrollador, tambien enseño en linea a traves de mi canal de youtube y espero que mis proyectos te sirvan como inspiracion o como ayuda para cualquier proyecto que tengas.🙌</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fapcod&label=Profile%20views&color=0e75b6&style=flat" alt="fapcod" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fapcod" alt="fapcod" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@fapcod1" target="blank"><img src="https://img.shields.io/twitter/follow/@fapcod1?logo=twitter&style=for-the-badge" alt="@fapcod1" /></a> </p>
 
