@@ -54,6 +54,7 @@ console.log("peru")
 <a href="https://www.youtube.com/c/@fapcod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@fapcod" height="30" width="40" /></a>
 </p>
 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
@@ -113,15 +114,6 @@ console.log("peru")
       height="40"
     />
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
@@ -195,9 +187,6 @@ console.log("peru")
       height="40"
     />
   </a>
-
-
-
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
@@ -230,7 +219,6 @@ console.log("peru")
       height="40"
     />
   </a>
-
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
@@ -248,6 +236,8 @@ console.log("peru")
     />
   </a>
 </p>
+
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rolando-d3v&show_icons=true&locale=en&layout=compact" alt="fapcod" /></p>
