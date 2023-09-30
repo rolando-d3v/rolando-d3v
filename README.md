@@ -23,10 +23,7 @@ const Rolando = {
 ```
 
  <em><b> Me encanta aprender las nuevas tecnologias del mundo de Javascript......>  (CARPE DIEM) </b> &copy; 2023..> </em>
- ```javascript
-console.log("peru")
 
-```
 
 <h1 align="center">Hola 👋, soy Frank Antonio P.A</h1>
 <h3 align="center">Soy un apasionado a la tecnologia. Soy desarrollador, tambien enseño en linea a traves de mi canal de youtube y espero que mis proyectos te sirvan como inspiracion o como ayuda para cualquier proyecto que tengas.🙌</h3>
