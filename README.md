@@ -11,8 +11,7 @@ const Rolando = {
   architecture: ["microservices", "Rest", "graphql"],
   Frontend:  {
               Javascript: ["React", "React Native", "Nextjs", "Electron JS"],
-              Python: ["Django" ]
-           },
+             },
   Backend:  {
               Javascript: ["Node JS", "Express", "Fastify" ],
               Python: ["Fastapi", "Django" ]
