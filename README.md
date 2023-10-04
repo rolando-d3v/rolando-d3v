@@ -1,4 +1,5 @@
 <img src="https://user-images.githubusercontent.com/33987212/90967020-ff745080-e49e-11ea-96fb-891eb03b2dee.gif" width="860">
+<h1 align="center">Hola 👋, soy Rolando </h1>
 <h2> Hi, Soy Rolando!! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"></h2>
 
 <p><em>Ingeniero de Sistemas: <a href="https://www.upc.edu.pe/" target="blank" >University UPC </a><img  src="https://www.upc.edu.pe/static/img/logo_upc_red.png" width="30">
@@ -24,7 +25,7 @@ const Rolando = {
  <em><b> Me encanta aprender las nuevas tecnologias del mundo de Javascript......>  (CARPE DIEM) </b> &copy; 2023..> </em>
 
 
-<h1 align="center">Hola 👋, soy Frank Antonio P.A</h1>
+
 <h3 align="center">Soy un apasionado a la tecnologia. Soy desarrollador, tambien enseño en linea a traves de mi canal de youtube y espero que mis proyectos te sirvan como inspiracion o como ayuda para cualquier proyecto que tengas.🙌</h3>
 
 
