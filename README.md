@@ -1,10 +1,10 @@
 <img src="https://user-images.githubusercontent.com/33987212/90967020-ff745080-e49e-11ea-96fb-891eb03b2dee.gif" width="860">
 <h1 align="center">Hola 👋, soy Rolando </h1>
-<em><b> Me encanta aprender las nuevas tecnologias del mundo de Javascript......>  (CARPE DIEM) </b> &copy; 2023..> </em>
 
-
-<p><em>Soy Ingeniero de Sistemas de la <a href="https://www.upc.edu.pe/" target="blank" >University UPC </a><img  src="https://www.upc.edu.pe/static/img/logo_upc_red.png" width="30">
+<p><em>Soy Ingeniero de Sistemas de la <a href="https://www.upc.edu.pe/" target="blank" >University UPC </a><img  src="https://www.upc.edu.pe/static/img/logo_upc_red.png" width="26">
 </em></p>
+
+<em><b> Me encanta aprender las nuevas tecnologias del mundo de JavaScript y Python </b> > </em>
 
 ```javascript
 const Rolando = {
@@ -25,18 +25,15 @@ const Rolando = {
 
 
 
+- 🌱 Yo estoy aprendiendo **Python**
 
-<p align="left"> <a href="https://twitter.com/@fapcod1" target="blank"><img src="https://img.shields.io/twitter/follow/@fapcod1?logo=twitter&style=for-the-badge" alt="@fapcod1" /></a> </p>
-
-- 🌱 Yo estoy aprendiendo **Angular,React,C# y otras cositas.**
-
-- 🤝 Estoy buscando ayuda para mantener mi canal de Youtube [FapCod](https://www.youtube.com/@FapCod)
+- 🤝 Estoy buscando ayuda para mantener mi canal de Youtube [rolando_d3v](https://www.youtube.com/@rolando_d3v)
 
 - 💬 Preguntame sobre algun tema de los que enseño. **Programacion**
 
-- 📫 Puedes comunicarte conmigo **fapcod@protonmail.com**
+- 📫 Puedes comunicarte conmigo **landon3388@gmail.com**
 
-- ⚡ Si lo puedes imaginar lo puedes hacer. **💻❤️**
+- ⚡ Si lo puedes imaginar lo puedes programar. **💻❤️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
