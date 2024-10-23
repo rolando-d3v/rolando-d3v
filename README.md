@@ -17,7 +17,7 @@ const Rolando = {
   Backend:  {
               Javascript: ["Node JS", "Express", "Hono" ]
             },
-  database: ["Mongodb", "Mysql", "PostgreSql],
+  database: ["Mongodb", "Mysql", "PostgreSql"],
   challenge: `FullStack Developer ${DEV}`
 }
 ```
