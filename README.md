@@ -8,17 +8,16 @@
 
 ```javascript
 const Rolando = {
-  code: [Javascript, HTML, CSS, Python, SQL ],
+  code: [Javascript, HTML, CSS, SQL ],
   tools: ["Redux", "TailwindCSS", "CSS"],
-  architecture: ["microservices", "Rest", "graphql"],
+  architecture: ["microservices", "Rest"],
   Frontend:  {
               Javascript: ["React", "React Native", "Nextjs", "Electron JS"],
              },
   Backend:  {
-              Javascript: ["Node JS", "Express", "Fastify" ],
-              Python: ["Fastapi", "Django" ]
+              Javascript: ["Node JS", "Express", "Hono" ]
             },
-  database: ["Mongodb", "Mysql"],
+  database: ["Mongodb", "Mysql", "PostgreSql],
   challenge: `FullStack Developer ${DEV}`
 }
 ```
