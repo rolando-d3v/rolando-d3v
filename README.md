@@ -6,6 +6,12 @@
 
 <em><b> Me encanta aprender las nuevas tecnologias del mundo de JavaScript y Python </b> > </em>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 ```javascript
 const Rolando = {
   code: [Javascript, HTML, CSS, SQL ],
