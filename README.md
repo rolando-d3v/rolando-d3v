@@ -50,7 +50,7 @@ const Rolando = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,ts,vite,vscode,sass,redux,js,bun,nodejs,electron,express,prisma,mysql,postgres,nextjs,notion,ngix,figma,react,python,css&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,ts,vite,vscode,sass,redux,js,bun,nodejs,electron,express,prisma,mysql,postgres,nextjs,notion,nginx,figma,react,python,css&theme=dark" />
   </a>
 </p>
 
